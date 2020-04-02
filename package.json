@@ -1,7 +1,7 @@
 {
   "name": "datocms-snipcart-gatsby-example",
   "description": "An example project to demonstrate how you can integrate Gatsby, Snipcart and DatoCMS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Stefano Verna <s.verna@datocms.com>",
   "dependencies": {
     "datocms-client": "^2.0.7",
